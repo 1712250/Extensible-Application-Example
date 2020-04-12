@@ -10,7 +10,7 @@
   jar cfv iplugin.jar TheInterface.class
 ```
 4. Write external plugins.
-5. Compile and build those pluins to a .jar file.
+5. Compile and build those plugins to a .jar file.
 ```
   javac -d . -cp '.:iplugin.jar' path/to/plugins/java/source/*.java
   jar cfv plugins.jar path/to/plugins/java/source/*.class
