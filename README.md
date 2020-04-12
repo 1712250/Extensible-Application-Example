@@ -22,7 +22,7 @@
 
 For the sake of simplicity, I create a dictionary application, with two internal dictionaries. User can add more dictionaries for personal use to the application by extending the IDictionary class, which has been build to [dictionary.jar](pluginSrc/dictionary.jar) file.
 
-User can build those external dictionaries to .jar file(s), and add to folder [plugins](plugins) though import dictionary function in the app (ofcource, we don't have now :blush:)
+User can build those external dictionaries to .jar file(s), and add to folder [plugins](plugins) through the "import dictionary function" in the app (ofcource, we don't have now :blush:)
 
 1. Set the policy
 ``` java
