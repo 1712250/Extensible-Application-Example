@@ -53,8 +53,8 @@ Only internal plugin can have all permission:
 4. Translate and see the result. You will see an exception said that access denied. Try comment out the line System.setSecurityManager(new SecurityManager()), no exception occur!
 
 ### References
-1. [Java Docs](https://docs.oracle.com/javase/tutorial/ext/basics/spi.html)
-2. [Adding Plugins to a Java Application by Ulf Dittmer](https://javaranch.com/journal/200607/Plugins.html?fbclid=IwAR1KwpYAPD5VlHm7SfkCf8kwZYOIDM6BHEkD2_5grYzlqR1wo1AX4TTVQJM)
-3. [Stackoverflow: How to create a pluginable Java program?](https://stackoverflow.com/questions/25449/how-to-create-a-pluginable-java-program)
-4. [Java plugins implementation by alexiyorlov](https://alexiyorlov.github.io/tutorials/java-plugins.html)
+[Java Docs](https://docs.oracle.com/javase/tutorial/ext/basics/spi.html)
+[Adding Plugins to a Java Application by Ulf Dittmer](https://javaranch.com/journal/200607/Plugins.html?fbclid=IwAR1KwpYAPD5VlHm7SfkCf8kwZYOIDM6BHEkD2_5grYzlqR1wo1AX4TTVQJM)
+[Stackoverflow: How to create a pluginable Java program?](https://stackoverflow.com/questions/25449/how-to-create-a-pluginable-java-program)
+[Java plugins implementation by alexiyorlov](https://alexiyorlov.github.io/tutorials/java-plugins.html)
 
